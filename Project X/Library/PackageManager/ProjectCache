@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637949599176830809
-    m_Hash: 2432710883
+      ticks: 637949830017994174
+    m_Hash: 576325541
   m_LockFileStatus:
     m_FilePath: E:/GameDev/GameDev-Final-Project/Project X/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637949599176860730
-    m_Hash: 690311430
+      ticks: 637949830018004156
+    m_Hash: 1958887630
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
