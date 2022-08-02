@@ -366,6 +366,7 @@
 "Assets/EffectExamples/Shared/Scripts/ParticleExamples.cs"
 "Assets/EffectExamples/Shared/Scripts/ParticleMenu.cs"
 "Assets/EffectExamples/TutorialInfo/Scripts/Readme.cs"
+"Assets/PickUpController.cs"
 "Assets/Scripts/gun.cs"
 "Assets/Scripts/MoveCamera.cs"
 "Assets/Scripts/PlayerMovement.cs"
